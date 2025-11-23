@@ -1,0 +1,67 @@
+/*styles\style.css*/
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+nav {
+  background-color: #333;
+  padding: 15px;
+}
+
+nav a {
+  color: #fff;
+  margin-right: 20px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+img {
+  max-width: 300px;
+  display: block;
+  margin-top: 20px;
+}
+
+
+.book-container {
+  width: 80%;
+  margin: 30px auto;
+  text-align: center;
+  background: #d8e6f0;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.book-img {
+  width: 250px;
+  margin: 20px auto;
+  display: block;
+}
+
+.author {
+  color: #2b5c7a;
+}
+
+.description {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+.footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: #555;
+}
